@@ -1,5 +1,9 @@
 Design for the mechanical brackets for stretching tissues on a PDMS membrane.
 
+Uniaxial scales were designed to stretch PDMS membrane by 8.6mm, to modify the stretch magnitude, download and open the .step file and modify the distance between the holes.
+
+
+
 
 If used, please cite 
 
