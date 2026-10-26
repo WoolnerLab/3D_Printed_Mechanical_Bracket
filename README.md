@@ -1,4 +1,4 @@
-Design for the mechanical brackets used to stretch stage 10 _Xenopus Laevis_ animal cap explants.
+Design for the mechanical brackets for stretching tissues on a PDMS membrane.
 
 
 If used, please cite 
